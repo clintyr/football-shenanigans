@@ -25,7 +25,7 @@ Described fully by [create_tbls.sql](https://github.com/clintyr/football-shenani
  - ClubGoalsAndAppearances, IntlGoalsAndAppearances
 ##### Purpose
 Scraper inserts directly into our database to avoid making excessive requests to the website and speeds up our initial program and
-problem of interest, "Have these players played together?"
+problem of interest, "Have these players played together?" All the tables are populated by scraping pages of each player. Any league/team/nation not seen before is added. Coverage quickly grows.
 ### Queries and Analysis
 #### Have these players played together?
  - Input: two names of footballers
