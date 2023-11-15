@@ -76,3 +76,21 @@ Gareth Bale and Aaron Ramsey were called up for
 * Wales in 2021.
 * Wales in 2022.
 ```
+```
+Bale and Modric played together at club level in 
+* 2008–09 for Tottenham Hotspur.
+* 2009–10 for Tottenham Hotspur.
+* 2010–11 for Tottenham Hotspur.
+* 2011–12 for Tottenham Hotspur.
+* 2013–14 for Real Madrid.
+* 2014–15 for Real Madrid.
+* 2015–16 for Real Madrid.
+* 2016–17 for Real Madrid.
+* 2017–18 for Real Madrid.
+* 2018–19 for Real Madrid.
+* 2019–20 for Real Madrid.
+* 2021–22 for Real Madrid.
+
+Excluding when they've played together, Bale and Modric have never played in the same league at the same time.
+Bale and Modric never played together internationally.
+```
